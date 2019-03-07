@@ -9,6 +9,7 @@ public class Main {
 
 	}
 
+	
 	private static void displayGreeting(){
 		System.out.println("Display the Greeting Card");
 		System.out.println("Happyy Sales People");
